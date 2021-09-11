@@ -1,0 +1,48 @@
+body{
+    background-color: #eee;
+}
+
+.cont{
+    box-shadow: 1px 1px 6px 1px #999;
+    border-radius: 5px;
+    margin-top: 10vh;
+    padding-block: 30px;
+    background-color: rgb(248, 248, 248);
+}
+
+
+.cont-id{
+    box-shadow: 1px 1px 6px 1px #999;
+    border-radius: 5px;
+    margin-top: 5vh;
+    padding-bottom: 30px;
+    background-color: rgb(248, 248, 248);
+}
+
+.active{
+    color:rgb(153, 151, 151);
+    font-size: 20px;
+    font-weight: 500;
+    padding-right: 20px;
+
+}
+.active:hover{
+    text-decoration: none;
+    color:#fff;
+}
+
+.table-show{
+    border-inline: 1px solid rgb(214, 214, 214);
+    border-top: 1px solid rgb(214, 214, 214);
+    
+}
+
+.table-show .fat{
+    padding-block: 10px;
+    font-weight: 700;
+    border-right: 1px solid rgb(214, 214, 214);
+}
+.table-show .son{
+    padding-block: 10px;
+}
+
